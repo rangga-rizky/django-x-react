@@ -8,7 +8,7 @@ wallet watcher merupakan sebuah web untuk memantau cashflow anda sehari-hari
 
 **tech** <br>
 1.Frontend : ReactJS + Bootstrap<br>
-2.Backend : Django
+2.Backend : Django + PostgreSQL
 
 **How to use** <br>
 1.buat DB dengan nama Catatan Keuangan<br>
