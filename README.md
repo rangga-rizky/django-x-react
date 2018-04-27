@@ -14,4 +14,4 @@ wallet watcher merupakan sebuah web untuk memantau cashflow anda sehari-hari
 1.buat DB dengan nama Catatan Keuangan<br>
 2.jalankan migrasi dengan ```python manage.py migrate```<br>
 3.nyalakan virtualenv lalu jalankan server pada direktori catatanKeuangan ```python manage.py runserver```<br>
-4.jalankan reactJS dengan masuk ke direktori frontend lalu '''npm start'''
+4.jalankan reactJS dengan masuk ke direktori frontend lalu ```npm start```
