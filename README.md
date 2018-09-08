@@ -6,6 +6,8 @@ memadukan antara django sebagai back-end dan react js sebagai front end
 **about** <br>
 wallet watcher merupakan sebuah web untuk memantau cashflow anda sehari-hari
 
+Available online in http://parola.site:3000
+
 **tech** <br>
 1.Frontend : ReactJS + Bootstrap<br>
 2.Backend : Django + PostgreSQL
